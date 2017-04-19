@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jms/di-extra-bundle": "^1.8"
+    }
+}
